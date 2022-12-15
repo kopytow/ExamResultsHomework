@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.ResultsProcessorConfigurationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-15T15:25:12" hostname="WIN-TQ9OO18AAC1" time="0.567">
+  <properties/>
+  <testcase name="answerReader()" classname="org.example.ResultsProcessorConfigurationTest" time="0.026"/>
+  <testcase name="resultsProcessor()" classname="org.example.ResultsProcessorConfigurationTest" time="0.54"/>
+  <system-out><![CDATA[class org.example.AnswerReader
+score1_4=1
+score5_8=2
+score9_10=3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
